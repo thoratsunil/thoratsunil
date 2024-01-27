@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoratsunil&label=Profile%20views&color=0e75b6&style=flat" alt="thoratsunil" /> </p>
 
-- 🔭 I’m currently working on **British Telecom**
+- 🔭 I’m currently working on **DevOps Projects**
 
 - 🌱 I’m currently learning **AWS Cloud and DevOps Tools**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AWS Cloud Project with DevOps Tools**
 
-- 📫 How to reach me **sunilmailhub@gmail.com**
+- 📫 How to reach me **thoratsnl@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
